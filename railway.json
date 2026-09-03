@@ -1,4 +1,3 @@
-// railway.json (optional - for Railway deployment)
 {
   "build": {
     "builder": "DOCKERFILE",
